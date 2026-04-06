@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🚀 The Ultimate FastAPI + React Full Stack Project
 
 ## 📌 Overview
@@ -185,4 +184,3 @@ If you like this project, please ⭐ the repository and share it!
 =======
 # Fastapi-narrative-engine
 An AI-powered interactive storytelling game built with FastAPI, where users can generate dynamic stories in real-time. The system leverages modern backend architecture and API design to deliver engaging, personalized narrative experiences.
->>>>>>> 0400e434a76f664ca1814021a5951699205b9a67
