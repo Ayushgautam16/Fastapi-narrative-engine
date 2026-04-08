@@ -1,5 +1,4 @@
 # 🚀 The Ultimate FastAPI + React Full Stack Project
-
 ## 📌 Overview
 
 This project is a **full-stack web application** built using **FastAPI (backend)** and **React (frontend)**. It demonstrates how to design, develop, and deploy a modern, scalable, and production-ready application.
