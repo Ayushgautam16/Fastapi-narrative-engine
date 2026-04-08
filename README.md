@@ -6,7 +6,6 @@ This project is a **full-stack web application** built using **FastAPI (backend)
 The goal of this project is to showcase **real-world full-stack development skills**, including API design, frontend integration, authentication, and deployment.
 
 ---
-
 ## 🧠 Key Features
 
 * ⚡ High-performance backend with FastAPI
