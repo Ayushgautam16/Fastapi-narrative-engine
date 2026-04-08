@@ -176,9 +176,6 @@ Feel free to fork this repo and submit a pull request.
 
 If you like this project, please ⭐ the repository and share it!
 
----
-
-> 💬 *"Build projects that solve real problems — that's what makes you stand out."*
 =======
 # Fastapi-narrative-engine
 An AI-powered interactive storytelling game built with FastAPI, where users can generate dynamic stories in real-time. The system leverages modern backend architecture and API design to deliver engaging, personalized narrative experiences.
