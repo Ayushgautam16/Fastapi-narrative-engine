@@ -6,7 +6,7 @@ app = FastAPI(
     title="Choose Your Own Adventure API",
 
     description="An API for a choose your own adventure stories.",
-    version="0.0.0",
+    version="0.1.0",
     docs_url="/docs",
     redoc_url="/redoc",
 
@@ -27,5 +27,7 @@ app.add_middleware(
 
 
 if __name__ == "__main__":
+
     import uvicorn
+    
     uvicorn.run("main:app", host="0.0.0.0", port=8000, reload=True)
