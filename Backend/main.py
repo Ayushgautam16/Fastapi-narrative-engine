@@ -4,9 +4,9 @@ from fastapi.middleware.cors import CORSMiddleware
 
 app = FastAPI(
     title="Choose Your Own Adventure API",
-    
+
     description="An API for a choose your own adventure stories.",
-    version="0.1.0",
+    version="0.0.0",
     docs_url="/docs",
     redoc_url="/redoc",
 
