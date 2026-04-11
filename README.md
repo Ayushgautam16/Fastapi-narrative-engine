@@ -1,5 +1,4 @@
 # 🚀 The Ultimate FastAPI + React Full Stack Project
-
 ## 📌 Overview
 
 This project is a **full-stack web application** built using **FastAPI (backend)** and **React (frontend)**. It demonstrates how to design, develop, and deploy a modern, scalable, and production-ready application.
@@ -7,7 +6,6 @@ This project is a **full-stack web application** built using **FastAPI (backend)
 The goal of this project is to showcase **real-world full-stack development skills**, including API design, frontend integration, authentication, and deployment.
 
 ---
-
 ## 🧠 Key Features
 
 * ⚡ High-performance backend with FastAPI
@@ -178,9 +176,6 @@ Feel free to fork this repo and submit a pull request.
 
 If you like this project, please ⭐ the repository and share it!
 
----
-
-> 💬 *"Build projects that solve real problems — that's what makes you stand out."*
 =======
 # Fastapi-narrative-engine
 An AI-powered interactive storytelling game built with FastAPI, where users can generate dynamic stories in real-time. The system leverages modern backend architecture and API design to deliver engaging, personalized narrative experiences.
