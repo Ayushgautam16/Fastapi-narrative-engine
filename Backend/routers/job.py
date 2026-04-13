@@ -10,3 +10,6 @@ router = APIRouter(
     tags=["jobs"]
 )
 
+
+@router.get("/{job_id}", response_model=StoryJobResponse)
+def get_job_status(job_id: str, db: 
