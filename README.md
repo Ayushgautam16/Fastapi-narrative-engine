@@ -71,7 +71,6 @@ fastapi-react-project/
 ---
 
 ## ⚙️ Installation & Setup
-
 ### 🔹 Backend Setup
 
 
@@ -86,7 +85,6 @@ uvicorn app.main:app --reload
 ---
 
 ### 🔹 Frontend Setup
-
 
 bash
 cd frontend
