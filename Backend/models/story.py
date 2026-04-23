@@ -16,3 +16,9 @@ class Story(Base):
     nodes = relationship("StoryNode", back_populates="story")
 
 
+class StoryNode(Base):
+    __tablename__ = "story_nodes"
+
+    id = Column(Integer, primary_key=True, index=True)
+    story_id = Column(Integer, ForeignKey("stories.id"), index=True)
+   
