@@ -8,6 +8,7 @@ app = FastAPI(
 
     description="An API for a choose your own adventure stories.",
     version="0.1.0",
+    
     docs_url="/docs",
     redoc_url="/redoc",
 )
